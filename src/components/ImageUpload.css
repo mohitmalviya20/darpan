@@ -1,0 +1,19 @@
+.image_upload {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+}
+.select_file {
+  padding: 12px;
+  border: 1px solid#757ce8;
+  border-radius: 5px;
+  text-align: center;
+  color: #3f50b5;
+}
+.progress_bar {
+  width: 100%;
+}
